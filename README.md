@@ -12,7 +12,7 @@ _italica_
 
 [Enlace Github](http://github.com)
 
-![logotip Tux](/logotipo/Tux.png)
+![Tux](/img/Tux.png)
 
 1. elemento 1
 2. elemento 2
@@ -34,3 +34,7 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+Nombre de la actividad | Descripcion
+---------------------- | -----------
+[Galeria]
